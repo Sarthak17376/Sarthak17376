@@ -41,6 +41,29 @@ When I'm not training models or optimizing algorithms, you can find me meditatin
 
 ---
 
+<h2 align="center">🏆 Competitive Programming Stats</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>LeetCode</h3>
+        <a href="https://leetcode.com/Sarthak17376/">
+          <img src="https://leetcode-stats-six.vercel.app/?username=Sarthak17376&theme=dark&no-border=false" alt="LeetCode Stats" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <h3>GeeksforGeeks</h3>
+        <a href="https://auth.geeksforgeeks.org/user/sarthakdeyxyz/practice/">
+          <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=sarthakdeyxyz" alt="GFG Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 <h2 align="center">⚡ The Man Behind The Code</h2>
 
 <table>
