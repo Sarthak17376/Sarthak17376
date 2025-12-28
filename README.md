@@ -5,7 +5,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=M.Tech+Student+%40+Artificial+Intelligence;B.Tech+Grad+%40+Information+Technology;Pythonista+%26+ML+Practitioner;Future+Pirate+King+(in+Data+Science)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=1100&lines=M.Tech+Student+%40+Artificial+Intelligence;B.Tech+Grad+%40+Information+Technology;Pythonista+%26+ML+Practitioner;Future+Pirate+King+(in+Data+Science)" alt="Typing SVG" />
   </a>
 
 </div>
@@ -41,17 +41,17 @@ When I'm not training models or optimizing algorithms, you can find me meditatin
 
 ---
 
-<h2 align="center">🏆 Competitive Programming Stats</h2>
+<h2 align="center">🏆 Competitive Programming</h2>
 
 <div align="center">
   <a href="https://leetcode.com/Sarthak17376/">
-    <img src="https://leetcard.jacoblin.cool/Sarthak17376?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcode-stats-six.vercel.app/?username=Sarthak17376&theme=dark&no-border=true" alt="LeetCode Stats" />
   </a>
   
   <br/><br/>
   
   <a href="https://auth.geeksforgeeks.org/user/sarthakdeyxyz/practice/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2965f1?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Profile" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Solve_Stats-2965f1?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Profile" />
   </a>
 </div>
 
