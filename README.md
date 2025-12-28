@@ -79,16 +79,6 @@ When I'm not training models or optimizing algorithms, you can find me meditatin
 
 ---
 
-<h2 align="center">📈 GitHub Analytics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak17376&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sarthak's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak17376&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=100&section=footer" width="100%"/>
 </div>
